@@ -16,6 +16,14 @@ export const portfolioData: PortfolioData = {
     languages: ['JavaScript', 'TypeScript', 'Python']
   },
   projects: [
+        {
+      name: 'AI Resume Analyzer with Chatbot',
+      description: 'A modern, industrial-grade web application designed to bridge the gap between job seekers and Applicant Tracking Systems (ATS). This tool analyzes resumes against job descriptions, provides deep insights, and features an integrated AI Career Coach.',
+      liveLink: 'https://ai-resume-analyzer-blue-chi.vercel.app/',
+      githubLink: 'https://github.com/Muhammad-Ammad3/AI-Resume-Analyzer',
+      image: '/Images/resume.png'
+    }
+    ,
     {
       name: 'AI Chatbot',
       description: 'A modern AI Chatbot built with React that allows users to interact with AI in real-time using the OpenRouter API. Features a clean UI, smooth chat experience, and responsive design.',
