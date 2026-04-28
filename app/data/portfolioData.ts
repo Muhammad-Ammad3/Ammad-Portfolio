@@ -30,8 +30,14 @@ export const portfolioData: PortfolioData = {
       liveLink: 'https://ai-chatbot-delta-taupe.vercel.app/',
       githubLink: 'https://github.com/Muhammad-Ammad3/AI-Chatbot',
       image: '/Images/chatbot.png'
-    }
-    ,
+    },
+    {
+      name: 'Image Gallery Unsplash',
+      description: 'A modern, responsive Image Gallery built with React and Tailwind CSS, featuring Unsplash API integration, infinite scrolling, and an asynchronous image download system.',
+      liveLink: 'https://image-gallery-unsplash-one.vercel.app/',
+      githubLink: 'https://github.com/Muhammad-Ammad3/Image-Gallery',
+      image: '/Images/imageGallery.png'
+    },
     {
       name: 'E-Commerce',
       description: 'Modern ecommerce with real-time analytics, user management, and sales tracking built with React.js and Tailwind CSS.',
@@ -54,6 +60,14 @@ export const portfolioData: PortfolioData = {
       image: '/Images/weatherApp.png'
     },
     {
+      name: 'Movies App',
+      description: 'Movies App is a modern web application for exploring trending and popular movies. Users can search movies and view details like ratings, release dates, and overviews. It fetches real-time data from an API and is built with React.js, offering a responsive design and smooth, user-friendly experience across devices.',
+      liveLink: 'https://movies-app-sigma-rosy.vercel.app/',
+      githubLink: 'https://github.com/Muhammad-Ammad3/Movies-App',
+      image: '/Images/movieApp.png'
+    }
+    ,
+    {
       name: 'To-Do App',
       description: 'A simple, fast, and responsive To-Do List application built with React.js. This app allows users to efficiently manage their daily tasks by adding, completing, and deleting them, weather condition, humidity, and wind speed. Users can search for any city and instantly see the current weather details. The app is built using React.js.',
       liveLink: 'https://to-do-app-nine-ruddy.vercel.app/',
@@ -66,22 +80,6 @@ export const portfolioData: PortfolioData = {
       liveLink: 'https://counter-app-two-ruby-90.vercel.app/',
       githubLink: 'https://github.com/Muhammad-Ammad3/Counter-App',
       image: '/Images/counterApp.png'
-    }
-    ,
-    {
-      name: 'Movies App',
-      description: 'Movies App is a modern web application for exploring trending and popular movies. Users can search movies and view details like ratings, release dates, and overviews. It fetches real-time data from an API and is built with React.js, offering a responsive design and smooth, user-friendly experience across devices.',
-      liveLink: 'https://movies-app-sigma-rosy.vercel.app/',
-      githubLink: 'https://github.com/Muhammad-Ammad3/Movies-App',
-      image: '/Images/movieApp.png'
-    }
-    ,
-    {
-      name: 'Image Gallery Unsplash',
-      description: 'A modern, responsive Image Gallery built with React and Tailwind CSS, featuring Unsplash API integration, infinite scrolling, and an asynchronous image download system.',
-      liveLink: 'https://image-gallery-unsplash-one.vercel.app/',
-      githubLink: 'https://github.com/Muhammad-Ammad3/Image-Gallery',
-      image: '/Images/imageGallery.png'
     }
   ],
   links: {
