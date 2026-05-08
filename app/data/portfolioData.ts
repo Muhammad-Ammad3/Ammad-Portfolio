@@ -18,6 +18,14 @@ export const portfolioData: PortfolioData = {
   projects: [
         {
       name: 'AI Resume Analyzer with Chatbot',
+      description: 'A full-stack AI Neural Chatbot built with the MERN stack and Gemini AI. Features real-time streaming responses, Clerk authentication, and secure MongoDB chat history persistence with multi-turn conversation memory.',
+      liveLink: 'https://gemini-ai-chatbot-gamma-vert.vercel.app/',
+      githubLink: 'https://github.com/Muhammad-Ammad3/Gemini-AI-Chatbot-Frontend',
+      image: '/Images/geminiAI.png'
+    }
+    ,
+        {
+      name: 'AI Resume Analyzer with Chatbot',
       description: 'A modern, industrial-grade web application designed to bridge the gap between job seekers and Applicant Tracking Systems (ATS). This tool analyzes resumes against job descriptions, provides deep insights, and features an integrated AI Career Coach.',
       liveLink: 'https://ai-resume-analyzer-blue-chi.vercel.app/',
       githubLink: 'https://github.com/Muhammad-Ammad3/AI-Resume-Analyzer',
