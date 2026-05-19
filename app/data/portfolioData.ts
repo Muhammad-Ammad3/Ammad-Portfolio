@@ -17,6 +17,14 @@ export const portfolioData: PortfolioData = {
   },
   projects: [
         {
+      name: 'Spotify Music',
+      description: 'A fully responsive, pixel-perfect Spotify Clone built using React.js and Tailwind CSS. This project showcases modern frontend workflows, state management via Context API, and seamless HTML5 audio integration.',
+      liveLink: 'https://spotify-hhm39fqzk-muhammad-ammad3s-projects.vercel.app/',
+      githubLink: 'https://github.com/Muhammad-Ammad3/Spotify-Clone',
+      image: '/Images/spotify.png'
+    }
+    ,
+        {
       name: 'Gemini AI Chatbot',
       description: 'A full-stack AI Neural Chatbot built with the MERN stack and Gemini AI. Features real-time streaming responses, Clerk authentication, and secure MongoDB chat history persistence with multi-turn conversation memory.',
       liveLink: 'https://gemini-ai-chatbot-gamma-vert.vercel.app/',
