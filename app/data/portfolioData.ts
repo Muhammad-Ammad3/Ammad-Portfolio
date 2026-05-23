@@ -17,6 +17,14 @@ export const portfolioData: PortfolioData = {
   },
   projects: [
         {
+      name: 'Multi-Vendor-E-Commerce-Gocart',
+      description: 'Engineered GoCart, an advanced multi-vendor e-commerce ecosystem utilizing Next.js, Prisma, and Redux Toolkit. Built role-based dashboards, automated product creation using integrated AI image-to-text generation, implemented secure Stripe transactions, and launched a premium user membership tier with a 1-month free trial via Clerk Billing.',
+      liveLink: 'https://gocart-flame.vercel.app/',
+      githubLink: 'https://github.com/Muhammad-Ammad3/E-Commerce-Amazon',
+      image: '/Images/gocart.png'
+    }
+    ,
+        {
       name: 'Spotify Music',
       description: 'A fully responsive, pixel-perfect Spotify Clone built using React.js and Tailwind CSS. This project showcases modern frontend workflows, state management via Context API, and seamless HTML5 audio integration.',
       liveLink: 'https://spotify-hhm39fqzk-muhammad-ammad3s-projects.vercel.app/',
