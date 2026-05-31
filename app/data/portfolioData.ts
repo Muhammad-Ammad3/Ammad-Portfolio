@@ -17,6 +17,14 @@ export const portfolioData: PortfolioData = {
   },
   projects: [
         {
+      name: 'Internee Clone',
+      description: 'A high-fidelity, full-stack clone of the Internee.pk platform built with a focus on Component-Driven Architecture and premium UI/UX design. Features a custom branded aesthetic, real-time analytics dashboards, and smooth responsive layouts.',
+      liveLink: 'https://internee-eight.vercel.app/',
+      githubLink: 'https://github.com/Muhammad-Ammad3/internee',
+      image: '/Images/internee.png'
+    }
+    ,
+        {
       name: 'Multi-Vendor-E-Commerce-Gocart',
       description: 'Engineered GoCart, an advanced multi-vendor e-commerce ecosystem utilizing Next.js, Prisma, and Redux Toolkit. Built role-based dashboards, automated product creation using integrated AI image-to-text generation, implemented secure Stripe transactions, and launched a premium user membership tier with a 1-month free trial via Clerk Billing.',
       liveLink: 'https://gocart-flame.vercel.app/',
