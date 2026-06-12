@@ -24,7 +24,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-white/10 pt-6 text-gray-500 text-sm">
-          © 2025 Muhammad Ammad. Built with Next.js & Tailwind CSS v4. 🚀
+          © 2026 Muhammad Ammad. Built with Next.js & Tailwind CSS v4. 🚀
         </div>
       </div>
     </footer>
