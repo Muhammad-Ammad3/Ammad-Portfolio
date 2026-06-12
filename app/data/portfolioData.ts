@@ -17,6 +17,14 @@ export const portfolioData: PortfolioData = {
   },
   projects: [
         {
+      name: 'Book Finder',
+      description: "A modern and fast book search application built with React and Tailwind CSS that allows users to easily discover millions of books using the Open Library API.",
+      liveLink: 'https://book-library-two-mu.vercel.app/',
+      githubLink: 'https://github.com/Muhammad-Ammad3/Book-Library',
+      image: '/Images/bookLibrary.png'
+    }
+    ,
+        {
       name: 'Internee Clone',
       description: 'A high-fidelity, full-stack clone of the Internee.pk platform built with a focus on Component-Driven Architecture and premium UI/UX design. Features a custom branded aesthetic, real-time analytics dashboards, and smooth responsive layouts.',
       liveLink: 'https://internee-eight.vercel.app/',
